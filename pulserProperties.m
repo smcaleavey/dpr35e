@@ -10,7 +10,7 @@ classdef pulserProperties < handle
     end
 
 
-    methods %(Access = ?testThing2) %use that access list thign here so only the pulser object gets to use this method
+    methods %(Access = ?dpr35e) %use that access list thign here so only the pulser object gets to use this method
        
         function setPropertiesByCommandNumber(obj,command,value)
             switch command
